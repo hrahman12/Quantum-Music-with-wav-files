@@ -14,13 +14,7 @@ Using a real quantum computer you need to collapse the output qubit into a class
 
 ### Wavetable synthesis
 
-See this? These are waves. These waves here last for one period. 
-
-![wavetable synthesis](http://synthesizeracademy.com/wp-content/uploads/wavetable-synthesis-wavetable.gif)
-
 Each wave is a list of amplitudes. You take a wave, repeat it indefinitely, to make a sound. The sound is pitched because it's periodic. The user sets the frequency/pitch by changing the length of the wave (or sample rate).
-
-![wave amplitude](https://study.com/cimages/multimages/16/amplitudedw.png)
 
 # Ideas
 
